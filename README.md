@@ -13,7 +13,9 @@ We improved significantly from our Phase 1 project to our Phase 2 project (you c
 from a 70% in Phase 1 to an 88% in Phase 2.
 
 # How to Use
-To test the user interface, RUN DEMO.JAVA located in the UserLogin package. You will be 
+
+
+(Use src folder in Phase 2 for final project) To test the user interface, RUN DEMO.JAVA located in the UserLogin package. You will be 
 prompted to input a valid email address and a password. Existing users and their log in credentials are 
 stored in Users.json in the Resources package. If the inputted credentials do not match any existing user, 
 you will be prompted to try again.
